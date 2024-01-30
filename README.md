@@ -1,4 +1,4 @@
-# [UPDATED] Interior Mapping (Fake Interior) Shader For Godot Engine
+# [Edited] Interior Mapping (Fake Interior) Shader For Godot Engine (LTS)
 
 Updated Fake Interior Mapping shader for the Godot Game Engine 3.x that works with both GLES3 and GLES2.
 This shader is an optimization measure used in game development to increase performance while keeping a good visual quality,
